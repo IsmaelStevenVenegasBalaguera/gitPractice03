@@ -3,5 +3,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("This is a code");
+        int num1=12;
+        int num2=28;
+        System.out.println(num1+num2);
     }
 }
